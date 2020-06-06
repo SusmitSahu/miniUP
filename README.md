@@ -2,6 +2,7 @@
 A platform for small scale entrepreneur's to sell their value of creation. # Mind Jam #web-dev
 
 Products
+
 Handicraft Materials
 Painting Art Works
 Handmade Products
