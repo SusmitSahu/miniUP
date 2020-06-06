@@ -28,3 +28,37 @@ Ceramic tile maker
 Florist
 Connectors
 Health Drink
+
+Services
+Learning 
+Online Tutor
+Repairing households
+Tailoring
+House Cleaning
+Baby Sitting/ Day Care Services
+Graphic designer
+Virtual Assistant
+Free Lancing
+Food Delivery
+Subject Matter expert
+Courier Delivery
+Lawn Cleaning
+Mobile Service Provider
+Saloon
+Funeral Services
+Job recruitment Services
+Intern Services
+Home made Tiffin Services
+Carrier Counselling
+Consultant based services
+Real state agent
+Cleaning House (pest / lawn mover)
+Marriage/party plot
+Xerox
+Beauty saloon
+Embroider
+IT Support
+Software Development
+
+
+
